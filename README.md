@@ -161,24 +161,9 @@
 
 ---
 
-## 联系我们
+#### 初始界面
 
-如有任何问题或建议，请联系：
-
-- 邮箱：your-email@example.com
-- GitHub：[你的 GitHub 仓库地址](https://github.com/your-username/your-repo)
-
----
-
-### 示例截图
-
-#### 初始界面（英文）
-
-![初始界面](https://i.imgur.com/example1.png)
-
-#### 初始界面（中文）
-
-![初始界面](https://i.imgur.com/example2.png)
+![初始界面](./home.png)
 
 
 
