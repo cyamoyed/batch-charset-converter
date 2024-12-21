@@ -50,7 +50,7 @@
 2. 打开终端，运行以下命令：
 
    ```bash
-   java -jar BatchCharsetConverter.jar
+   java -jar batch-charset-converter-1.0-SNAPSHOT.jar
    ```
 
 #### 方法二：运行打包后的可执行文件
@@ -104,7 +104,7 @@
 2. 测试生成的 JAR 文件。
 
    ```bash
-    java -jar target/batchCharsetConverter-1.0-SNAPSHOT.jar
+    java -jar target/batch-charset-converter-1.0-SNAPSHOT.jar
    ```
 
 ### 2. 打包为 `.exe`（适用于 Windows）
@@ -124,7 +124,7 @@
 
       ```bash
       jpackage --name 字符集转换 --input target/ \
-               --main-jar batchCharsetConverter-1.0-SNAPSHOT.jar \
+               --main-jar batch-charset-converter-1.0-SNAPSHOT.jar \
                --main-class xyz.igali.BatchCharsetConverter \
                --type dmg \
                --runtime-image custom-jre \
